@@ -29,9 +29,14 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
+.icons-media {
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+}
+
+.icon {
+  color: #311918;
 }
 
 /* Portafolio */
