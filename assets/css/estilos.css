@@ -54,11 +54,14 @@ footer {
     width: 100px;
   }
 
+  
 }
 
 .card {
   height: 35rem;
+
 }
+
 
 .card h5 {
   text-align: center;
