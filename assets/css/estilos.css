@@ -41,12 +41,19 @@ body {
   background-color: #373a3c;
 }
 
+
 .carousel-indicators button {
   background-color: #373a3c;
+  border-color: #373a3c;
+}
+
+.carousel-indicators .active {
+  background-color:  #72403E;
+  border-color: #72403E;
 }
 
 .carousel-caption {
-  color: #373a3c;
+  color:goldenrod;
 }
 
 .imgPortafolio {
@@ -56,7 +63,7 @@ body {
 }
 
 .personalice-carousel {
-  background-color: #72403E;
+  background-color: #493230;
 }
 
 /* Footer */
