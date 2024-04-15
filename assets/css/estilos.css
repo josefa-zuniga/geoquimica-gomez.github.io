@@ -34,6 +34,31 @@ body {
   color: #373a3c;
 }
 
+/* Portafolio */
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #373a3c;
+}
+
+.carousel-indicators button {
+  background-color: #373a3c;
+}
+
+.carousel-caption {
+  color: #373a3c;
+}
+
+.imgPortafolio {
+  width: 80%;
+  height: 400px;
+  margin: auto;
+}
+
+.personalice-carousel {
+  background-color: #72403E;
+}
+
 /* Footer */
 
 footer {
@@ -50,11 +75,11 @@ footer {
     height: 300px;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
-  
+
 }
 
 .card {
@@ -65,5 +90,5 @@ footer {
 
 .card h5 {
   text-align: center;
-  
+
 }
