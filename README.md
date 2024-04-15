@@ -1,6 +1,6 @@
 > [!NOTE]
 > Enlaces a los repositorios de los compañeros:
->- [Nombre del compañero 1](enlace_al_repositorio_1)
+>- [Luis Subiabre](https://github.com/geoquimica-gomez/luissubiabre.github.io)
 >- [Nombre del compañero 2](enlace_al_repositorio_2)
 
 # Portafolio de Oriana Gómez
