@@ -75,6 +75,9 @@ body {
   outline: none; 
 }
 
+.bg-uni {
+  background-color: rgb(182, 210, 201);
+}
 
 /* Portafolio */
 
