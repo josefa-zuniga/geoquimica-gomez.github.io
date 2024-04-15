@@ -39,12 +39,53 @@ body {
   color: #311918;
 }
 
+.icon:hover {
+  color: #924541; 
+}
+
+.icon:focus,
+.icon:active {
+ color: #9b3a2e; 
+}
+
+/* Educación */
+
+#educacion {
+  background-color: #373a3c;
+  color: white; 
+}
+
+.card-body.text-dark {
+  color:  #373a3c; 
+  height:auto;
+}
+
+#educacion button {
+  background-color: #72403E;
+  color: #fff; 
+  border: none; 
+}
+#educacion button:hover {
+  background-color: #924541; 
+}
+
+#educacion button:focus,
+#educacion button:active {
+  background-color: #9b3a2e; 
+  outline: none; 
+}
+
+
 /* Portafolio */
+
+#Portafolio {
+  background-color:   #493230;
+}
 
 #Portafolio h2 {
   text-align: center;
   font-weight: 700;
-  color: #373a3c;
+  color:white;
   font-size: 3rem;
 }
 
