@@ -3,7 +3,7 @@
 > url: https://geoquimica-gomez.github.io/
 > Enlaces a los repositorios de los compañeros:
 >- [Luis Subiabre](https://github.com/geoquimica-gomez/luissubiabre.github.io)
->- [Nombre del compañero 2](enlace_al_repositorio_2)
+>- [Josefa Zuniga](https://github.com/geoquimica-gomez/proyecto-final)
 
 # Portafolio de Oriana Gómez
 
